@@ -1,0 +1,6 @@
+{
+  "name": "Adaptive Screener Builder",
+  "description": "An advanced, high-density adaptive screener builder featuring custom routing logic, risk score thresholds, verification questions, interactive canvas flow mapping, and validation simulators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
